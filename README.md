@@ -1,3 +1,20 @@
+#React-Native-Crypto-Portfolio
+npm i --save redux react-redux redux-thunk redux-promise && npm i --save-dev remote-redux-devtools remotedev-rn-debugger remote-redux-devtools redux-logger
+
+
+* redux — Redux library.
+* react-redux — Glue for React and Redux.
+* remote-redux-devtool remotedev-rn-debugger
+* redux-thunk — Redux thunk let’s us to return a function inside an action instead returning a object.
+* redux-logger — logs the previous state, action and the next state in the console.
+* redux-promise — Allows us to resolve async actions (promises) with Redux. Example: Fetching data from an API.
+
+
+great redux reference page: https://github.com/reduxjs/redux/tree/master/docs/api
+
+
+#REACT NATIVE STUFF
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
