@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7426cc6-b9d2-41e6-bb15-b4db1a383458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rn-crypto-portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rn-crypto-portfolio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/FetchCoinData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/FetchCoinData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/CryptoReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/CryptoReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utils/CoinIcons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils/CoinIcons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CoinCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CoinCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CryptoContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CryptoContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,7 +32,7 @@
           <entry key="json" value="31" />
           <entry key="lock" value="5" />
           <entry key="log" value="2" />
-          <entry key="md" value="3" />
+          <entry key="md" value="4" />
           <entry key="ts" value="1" />
           <entry key="watchmanconfig" value="4" />
         </counts>
@@ -56,7 +41,7 @@
         <counts>
           <entry key="JSON" value="36" />
           <entry key="JavaScript" value="82" />
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="TypeScript" value="1" />
           <entry key="yarn.lock" value="5" />
@@ -66,14 +51,14 @@
         <counts>
           <entry key="js" value="560" />
           <entry key="json" value="108" />
-          <entry key="md" value="127" />
+          <entry key="md" value="234" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="108" />
           <entry key="JavaScript" value="560" />
-          <entry key="Markdown" value="127" />
+          <entry key="Markdown" value="234" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -155,18 +140,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Reducers/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Utils/Constants.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -175,15 +148,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/CoinCard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
+            <state relative-caret-position="437">
               <caret line="154" column="24" selection-start-line="154" selection-start-column="24" selection-end-line="154" selection-end-column="24" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#928#954#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="163">
+                <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -210,7 +195,6 @@
         <option value="$PROJECT_DIR$/jsconfig.json" />
         <option value="$PROJECT_DIR$/.flowconfig" />
         <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/App.test.js" />
         <option value="$PROJECT_DIR$/src/Store.js" />
@@ -221,6 +205,7 @@
         <option value="$PROJECT_DIR$/src/components/CryptoContainer.js" />
         <option value="$PROJECT_DIR$/src/Utils/CoinIcons.js" />
         <option value="$PROJECT_DIR$/src/components/CoinCard.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -358,12 +343,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532981897698</updated>
       <workItem from="1532981899000" duration="5168000" />
-      <workItem from="1532988176430" duration="11499000" />
+      <workItem from="1532988176430" duration="12773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16667000" />
+    <option name="totallyTimeSpent" value="17941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="948" extended-state="6" />
@@ -422,16 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="131" selection-start-line="15" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -598,12 +573,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CoinCard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
+        <state relative-caret-position="437">
           <caret line="154" column="24" selection-start-line="154" selection-start-column="24" selection-end-line="154" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#928#954#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="163">
+            <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

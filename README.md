@@ -1,19 +1,24 @@
 #React-Native-Crypto-Portfolio
-npm i --save redux react-redux redux-thunk redux-promise && npm i --save-dev remote-redux-devtools remotedev-rn-debugger remote-redux-devtools redux-logger
 
-
-* redux — Redux library.
-* react-redux — Glue for React and Redux.
-* remote-redux-devtool remotedev-rn-debugger
-* redux-thunk — Redux thunk let’s us to return a function inside an action instead returning a object.
-* redux-logger — logs the previous state, action and the next state in the console.
-* redux-promise — Allows us to resolve async actions (promises) with Redux. Example: Fetching data from an API.
-
-
-great redux reference page: https://github.com/reduxjs/redux/tree/master/docs/api
-
-
+### How to Run
+```
 npm install --save jest-expo react-native-debugger-open react-native-scripts react-test-renderer redux-logger remote-redux-devtools remotedev-rn-debugger axios expo react react-native react-native-loading-spinner-overlay react-redux redux redux-promise redux-thunk
+npm start
+ ```
+
+###Dependencies
+
+* **jest-expo:** *A Jest preset to painlessly test your Expo apps*
+* **redux:** *Redux library*
+* **react-redux:** *Glue for React and Redux.*
+* **remote-redux-devtool** 
+* **remotedev-rn-debugger:** *Injecting remotedev-app monitor into official Remote debugger of React Native. (formerly remote-redux-devtools-on-debugger)*
+* **redux-thunk:** *Redux thunk let’s us to return a function inside an action instead returning a object.*
+* **redux-logger:** *logs the previous state, action and the next state in the console.*
+* **redux-promise:** *Allows us to resolve async actions (promises) with Redux. Example: Fetching data from an API.*
+
+
+
 
 #REACT NATIVE STUFF
 
