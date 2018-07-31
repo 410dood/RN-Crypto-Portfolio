@@ -1,4 +1,4 @@
-# React-Native-Crypto-Portfolio
+# React-Native-Crypto-Values
 
 [![Build Status](https://scrutinizer-ci.com/g/410dood/RN-Crypto-Portfolio/badges/build.png?b=master)](https://scrutinizer-ci.com/g/410dood/RN-Crypto-Portfolio/build-status/master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/410dood/RN-Crypto-Portfolio/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/410dood/RN-Crypto-Portfolio/?branch=master)
