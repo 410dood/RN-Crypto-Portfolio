@@ -1,4 +1,6 @@
 #React-Native-Crypto-Portfolio
+[![Build Status](https://scrutinizer-ci.com/g/410dood/RN-Crypto-Portfolio/badges/build.png?b=master)](https://scrutinizer-ci.com/g/410dood/RN-Crypto-Portfolio/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/410dood/RN-Crypto-Portfolio/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/410dood/RN-Crypto-Portfolio/?branch=master)
 
 ### How to Run
 ```
@@ -17,10 +19,10 @@ npm start
 * **redux-logger:** *logs the previous state, action and the next state in the console.*
 * **redux-promise:** *Allows us to resolve async actions (promises) with Redux. Example: Fetching data from an API.*
 
+![Alt text](https://github.com/410dood/RN-Crypto-Portfolio/blob/master/cryptoportfolio2.png?raw=true)
 
 
-
-#REACT NATIVE STUFF
+#REACT NATIVE INFO
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
