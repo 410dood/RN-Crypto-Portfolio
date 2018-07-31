@@ -11,7 +11,7 @@ npm start
 * **jest-expo:** *A Jest preset to painlessly test your Expo apps*
 * **redux:** *Redux library*
 * **react-redux:** *Glue for React and Redux.*
-* **remote-redux-devtool** 
+* **remote-redux-devtool:** *Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps.*
 * **remotedev-rn-debugger:** *Injecting remotedev-app monitor into official Remote debugger of React Native. (formerly remote-redux-devtools-on-debugger)*
 * **redux-thunk:** *Redux thunk let’s us to return a function inside an action instead returning a object.*
 * **redux-logger:** *logs the previous state, action and the next state in the console.*
