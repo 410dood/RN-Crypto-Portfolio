@@ -1,7 +1,7 @@
 import {
     FETCHING_COIN_DATA,
     FETCHING_COIN_DATA_SUCCESS,
-    FETCHING_COIN_DATA_FAIL
+    FETCHING_COIN_DATA_FAIL,
 } from './../Utils/ActionTypes';
 
 const initialState = {
@@ -9,22 +9,22 @@ const initialState = {
     data: [],
     hasError: false,
     errorMessage: null
-}
+};
 
 export default function(state = initialState, action) {
 
     switch(action.type) {
 
         case FETCHING_COIN_DATA:
-            return Object.assign(state, {
+            return Object.assign({}, {
                 isFetching: true,
-                data: null,
+                data: {},
                 hasError: false,
                 errorMessage: null
             });
 
         case FETCHING_COIN_DATA_SUCCESS:
-            return Object.assign(state, {
+            return Object.assign({}, {
                 isFetching: false,
                 data: action.payload,
                 hasError: false,
@@ -32,7 +32,7 @@ export default function(state = initialState, action) {
             });
 
         case FETCHING_COIN_DATA_FAIL:
-            return Object.assign(state, {
+            return Object.assign({}, {
                 isFetching: false,
                 data: null,
                 hasError: true,

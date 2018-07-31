@@ -13,6 +13,8 @@ npm i --save redux react-redux redux-thunk redux-promise && npm i --save-dev rem
 great redux reference page: https://github.com/reduxjs/redux/tree/master/docs/api
 
 
+npm install --save jest-expo react-native-debugger-open react-native-scripts react-test-renderer redux-logger remote-redux-devtools remotedev-rn-debugger axios expo react react-native react-native-loading-spinner-overlay react-redux redux redux-promise redux-thunk
+
 #REACT NATIVE STUFF
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).

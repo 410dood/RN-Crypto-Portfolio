@@ -8,33 +8,27 @@
     "eject": "react-native-scripts eject",
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
-    "test": "jest",
-    "postinstall": "remotedev-debugger --hostname localhost --port 5678 --injectserver"
-  },
-  "remotedev": {
-    "hostname": "localhost",
-    "port": 5678
+    "test": "node node_modules/jest/bin/jest.js --watch"
   },
   "jest": {
     "preset": "jest-expo"
   },
-  "devDependencies": {
-    "jest-expo": "~27.0.0",
-    "react-native-scripts": "1.14.0",
-    "react-test-renderer": "16.3.1",
-    "redux-logger": "^3.0.6",
-    "remote-redux-devtools": "^0.5.12",
-    "remotedev-rn-debugger": "^0.8.3"
-  },
   "dependencies": {
     "axios": "^0.18.0",
-    "expo": "^27.0.1",
+    "expo": "27.0.0",
+    "jest-expo": "^27.0.0",
     "react": "16.3.1",
-    "react-native": "~0.55.2",
+    "react-native": "0.55.0",
+    "react-native-debugger-open": "^0.3.17",
     "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-scripts": "^1.14.0",
     "react-redux": "^5.0.7",
+    "react-test-renderer": "^16.4.1",
     "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
     "redux-promise": "^0.6.0",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "remote-redux-devtools": "^0.5.12",
+    "remotedev-rn-debugger": "^0.8.3"
   }
 }

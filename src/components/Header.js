@@ -9,7 +9,7 @@ const Header = () => {
             </Text>
         </View>
     )
-}
+};
 
 
 const styles = StyleSheet.create({
@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
         fontWeight: "bold",
         fontSize: 20,
     }
-})
+});
 
 const { headerContainer, header } = styles;
 
